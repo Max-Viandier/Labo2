@@ -1,0 +1,2 @@
+Url tokyo: http://127.0.0.1:5500/tokyo.html
+Url index: http://127.0.0.1:5500/index.html
